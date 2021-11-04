@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "Haroro <hutao-haroro@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/Alert.js",
   "directories": {
     "lib": "lib",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "c739b69f1dbd92681d6303b3fb3302d67ef1116f"
+  "gitHead": "13848e1473d2da54fea63ef75f28963ea47abe36"
 }
