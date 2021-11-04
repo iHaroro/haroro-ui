@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "devDependencies": {
     "lerna": "~3.15.0"
-  }
+  },
+  "license": "MIT"
 }
