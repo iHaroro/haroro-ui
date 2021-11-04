@@ -2,6 +2,6 @@
 
 const button = require('..');
 
-describe('@haroro-ui/Button', () => {
+describe('Button', () => {
     it('needs tests');
 });

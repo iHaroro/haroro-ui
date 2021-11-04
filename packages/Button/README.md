@@ -1,11 +1,11 @@
-# `@haroro-ui/Button`
+# `Button`
 
 > TODO: description
 
 ## Usage
 
 ```
-const button = require('@haroro-ui/Button');
+const button = require('Button');
 
 // TODO: DEMONSTRATE API
 ```

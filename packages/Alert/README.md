@@ -1,11 +1,11 @@
-# `@haroro-ui/Alert`
+# `Alert`
 
 > TODO: description
 
 ## Usage
 
 ```
-const alert = require('@haroro-ui/Alert');
+const alert = require('Alert');
 
 // TODO: DEMONSTRATE API
 ```

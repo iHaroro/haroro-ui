@@ -1,9 +1,9 @@
 {
-  "name": "@haroro-ui/alert",
+  "name": "alert",
   "version": "0.0.8-alpha.0",
   "description": "> TODO: description",
   "author": "Haroro <hutao-haroro@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/iHaroro/haroro-ui#readme",
   "license": "MIT",
   "main": "lib/Alert.js",
   "directories": {
@@ -13,11 +13,14 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iHaroro/haroro-ui.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "513484006bce0a972ea0f17ff9ab2bbf5bdd7a69"
+  "bugs": {
+    "url": "https://github.com/iHaroro/haroro-ui/issues"
+  }
 }
