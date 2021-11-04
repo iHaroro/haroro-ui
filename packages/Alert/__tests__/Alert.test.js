@@ -2,6 +2,6 @@
 
 const alert = require('..');
 
-describe('Alert', () => {
+describe('@haroro-ui/Alert', () => {
     it('needs tests');
 });

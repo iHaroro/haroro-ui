@@ -1,5 +1,5 @@
 {
-  "name": "alert",
+  "name": "@haroro-ui/alert",
   "version": "0.0.9-alpha.0",
   "description": "> TODO: description",
   "author": "Haroro <hutao-haroro@qq.com>",
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iHaroro/haroro-ui.git"
